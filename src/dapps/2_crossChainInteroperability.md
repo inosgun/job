@@ -23,4 +23,10 @@ More ad-hoc solutions would only be short-term fixes for long-term problems, so 
 
 This is why Wormhole exists. Wormhole proposes a new way of developing applications which leverages the strengths of each blockchain while mitigating the problems of the current ecosystem.
 
+## Branded Terms
+
+In some instances, Wormhole uses general terms for decentralized, cross-chain elements as branded verbiage. In most cases, the definition of the general term does not greatly differ from Wormhole definition, though Wormhole's definitions may be more narrow than general interpretations. 
+
+**xChain** - Across the Wormhole ecosystem, the full range of cross-blockchain interoperability is referred to under the term "xChain." "xChain" is the concept that houses other branded terms, like the Wormhole definitions of xAssets, xData and xApps.
+
 Rethinking the next generation of decentralized applications means dethroning the token as the fundamental atomic unit of blockchains. We'll expand on this change in the next section.
